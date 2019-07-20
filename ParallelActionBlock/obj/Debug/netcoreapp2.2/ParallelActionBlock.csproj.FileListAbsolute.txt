@@ -1,0 +1,11 @@
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\bin\Debug\netcoreapp2.2\ParallelActionBlock.deps.json
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\bin\Debug\netcoreapp2.2\ParallelActionBlock.runtimeconfig.json
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\bin\Debug\netcoreapp2.2\ParallelActionBlock.runtimeconfig.dev.json
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\bin\Debug\netcoreapp2.2\ParallelActionBlock.dll
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\bin\Debug\netcoreapp2.2\ParallelActionBlock.pdb
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\obj\Debug\netcoreapp2.2\ParallelActionBlock.csprojAssemblyReference.cache
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\obj\Debug\netcoreapp2.2\ParallelActionBlock.csproj.CoreCompileInputs.cache
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\obj\Debug\netcoreapp2.2\ParallelActionBlock.AssemblyInfoInputs.cache
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\obj\Debug\netcoreapp2.2\ParallelActionBlock.AssemblyInfo.cs
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\obj\Debug\netcoreapp2.2\ParallelActionBlock.dll
+D:\Sample\Git\AspNetCoreSamples\ParallelActionBlock\obj\Debug\netcoreapp2.2\ParallelActionBlock.pdb
